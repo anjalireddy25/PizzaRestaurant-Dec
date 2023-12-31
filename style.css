@@ -60,12 +60,10 @@ h1 {
     padding-bottom: 20px;
 
 }
-
 #social-media-icons>a>i {
     padding-inline: 15px;
     color: white;
 }
-
 #main-section {
     background-image: url("./assets/pizza-background-image.svg");
     background-repeat: no-repeat;
@@ -76,13 +74,11 @@ h1 {
     padding: 150px 0px 0px 100px;
     flex-wrap: wrap;
 }
-
 .horizontal-line {
     width: 350px;
     height: 8px;
     background-color: rgba(242, 76, 76, 1);
 }
-
 #main-content {
     /* padding:40px 0px 0px 20px; */
     display: flex;
@@ -92,7 +88,6 @@ h1 {
     height: 500px;
     background-color: transparent;
 }
-
 #craving-pizza {
     width: 75%;
     font-size: 90px;
@@ -102,7 +97,6 @@ h1 {
     flex-wrap: wrap;
 
 }
-
 #main-text {
     font-family: ruda;
     width: 55%;
@@ -112,7 +106,6 @@ h1 {
     background-color: transparent;
     flex-wrap: wrap;
 }
-
 .headings {
     font-family: Quattrocento;
     width: 250px;
@@ -120,7 +113,6 @@ h1 {
     border-bottom: 5px solid rgba(242, 76, 76, 1);
     text-align: center;
 }
-
 #about-us {
     display: flex;
     /* height:450px; */
@@ -132,13 +124,11 @@ h1 {
     /* flex-wrap:wrap; */
 
 }
-
 #about-us-context {
     display: flex;
     justify-content: space-evenly;
     /* flex-wrap:wrap; */
 }
-
 #about-us-text {
     margin-top: 45px;
     /* padding-top:20px; */
@@ -148,7 +138,6 @@ h1 {
     line-height: 28px;
     /* flex-wrap:wrap; */
 }
-
 #menu {
     display: flex;
     flex-direction: column;
@@ -160,14 +149,12 @@ h1 {
     padding: 100px 30px 40px 100px;
     background-color: black;
 }
-
 #menu-items {
     display: flex;
     flex-wrap: wrap;
     padding: 0px 30px 0px 40px;
 
 }
-
 #menu-items>#items {
     flex-wrap: wrap;
 }
@@ -178,7 +165,6 @@ h1 {
     padding: 20px 20px 20px 40px;
     flex-wrap: wrap;
 }
-
 h4 {
     color: rgba(242, 201, 76, 1);
     font-weight: 100;
@@ -190,7 +176,6 @@ h4 {
     width: 50%;
     padding: 15px;
 }
-
 .items-text {
     display: flex;
     flex-direction: column;
@@ -199,7 +184,6 @@ h4 {
     left: 15px;
 
 }
-
 .items-text>p {
     font-size: 16px;
     width: 120%;
@@ -242,7 +226,6 @@ h4 {
     overflow: hidden;
 
 }
-
 #image2 {
     grid-row-start: 1;
     grid-row-end: 3;
@@ -253,7 +236,6 @@ h4 {
     overflow: hidden;
 
 }
-
 #image3 {
     grid-row-start: 1;
     grid-row-end: 4;
@@ -261,10 +243,7 @@ h4 {
     grid-column-end: 6;
     height: 100%;
     overflow: hidden;
-
-
 }
-
 #image4 {
     grid-row-start: 3;
     grid-row-end: 5;
@@ -272,10 +251,7 @@ h4 {
     grid-column-end: 5;
     width: 100%;
     height: 100%;
-    /* overflow:hidden; */
-
 }
-
 #image5 {
     grid-row-start: 5;
     grid-row-end: 7;
@@ -283,7 +259,6 @@ h4 {
     grid-column-end: 5;
     width: 100%;
     overflow: hidden;
-    /* height:100%; */
 }
 
 #image6 {
@@ -293,18 +268,9 @@ h4 {
     grid-column-end: 6;
 
 }
-
-/* .gallery-heading{
-    color:white;
-    padding-top:90px;
-} */
-/* #gallery-heading{
-    padding-top: 60px;
-} */
 #gallery-images {
     padding-top: 30px;
 }
-
 #find-us {
     background-color: black;
     display: flex;
@@ -315,32 +281,23 @@ h4 {
     margin: auto;
     font-family: ruda;
 }
-
 #find-us-div {
     display: flex;
 }
-
-#find-us-text {
-    /* width:50%; */
-}
-
 #loca {
     padding-top: 30px;
 }
-
 #loca-icon {
     font-size: 32px;
     padding-right: 10px;
     position: relative;
     right: 10px;
 }
-
 .contact {
     display: flex;
     align-items: center;
 
 }
-
 #phone-icon {
     font-size: 30px;
     position: relative;
@@ -348,7 +305,6 @@ h4 {
     bottom: 10px;
 
 }
-
 #find-us-div {
     padding-top: 20px;
 }
@@ -360,39 +316,32 @@ h4 {
     font-family: ruda;
 
 }
-
 #mail-icon {
     padding-right: 10px;
     font-size: 28px;
 }
-
 #info {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
 #info-first {
     position: relative;
     left: 15px;
 
 }
-
 #footer-image {
     position: relative;
     right: 150px;
 }
-
 #find-us-description {
     width: 80%;
     flex-wrap: wrap;
 }
-
 #loca-desc {
     display: flex;
     align-items: center;
 }
-
 @media screen and (max-width:576px) {
     header {
         height: 175px;
@@ -490,7 +439,6 @@ h4 {
         justify-content: center;
         align-items: center;
     }
-
     .items {
         width: 80vw;
         display: flex;
@@ -513,7 +461,6 @@ h4 {
         margin: 0px;
         padding: 0;
     }
-
     .items-text>h4 {
         padding-top: 15px;
     }
@@ -521,12 +468,10 @@ h4 {
     .items-text>p {
         text-align: justify;
     }
-
     #carousel {
         margin: 0;
         padding: 0;
     }
-
     #carousel>h2 {
         position: relative;
         top: 30px;
@@ -540,13 +485,9 @@ h4 {
     #gallery {
         width: 100%;
     }
-
-    #find-us {}
-
     #find-us-div>img {
         width: 250px;
     }
-
     #find-us-div {
         display: flex;
         flex-direction: column;
@@ -556,7 +497,6 @@ h4 {
         margin: 0;
         padding: 0;
     }
-
     #find-us-text {
         display: flex;
         flex-direction: column;
@@ -564,12 +504,10 @@ h4 {
         align-items: center;
 
     }
-
     #find-us-description {
         text-align: justify;
         padding-top: 10px;
     }
-
     footer {
         width: 100%;
         display: flex;
@@ -579,7 +517,6 @@ h4 {
         position: relative;
 
     }
-
     #footer-image {
         width: 80px;
         text-align: center;
@@ -590,12 +527,10 @@ h4 {
         left:40px;
         top:25px;
     }
-
     #info {
         position: absolute;
         top: 10px;
         right: 50px;
     }
-
 
 }
